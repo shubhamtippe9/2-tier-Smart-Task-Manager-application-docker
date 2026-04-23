@@ -187,20 +187,18 @@ http://<EC2-PUBLIC-IP>:5000
 
 ---
 
-## 👨‍💻 Author
+👨‍💻 Author
 
-**Shubham Tippe**
+Shubham Tippe Cloud & DevOps Learner
 
----
+GitHub  
+https://github.com/shubhamtippe9
 
-## 📜 License
 
-This project is licensed under the MIT License.
+linkedin  
+https://www.linkedin.com/in/shubhamtippe9
 
----
+📜 License
 
-## ⭐ Support
-
-If you find this project useful, consider giving it a ⭐ on GitHub.
-
+This project is for educational and learning purposes.
 ---
